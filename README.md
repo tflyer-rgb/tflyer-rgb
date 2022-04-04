@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tflyer-rgb
 - 👀 I’m interested in automation system administration 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and ansible
 ...
 
 <!---
